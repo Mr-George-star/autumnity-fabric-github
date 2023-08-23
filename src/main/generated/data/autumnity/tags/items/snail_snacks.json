@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:red_mushroom",
+    "minecraft:brown_mushroom",
+    {
+      "id": "#autumnity:snail_speed_snacks",
+      "required": false
+    },
+    {
+      "id": "#autumnity:snail_glow_snacks",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#autumnity:maple_logs",
+      "required": false
+    }
+  ]
+}

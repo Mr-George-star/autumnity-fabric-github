@@ -1,0 +1,98 @@
+{
+  "item.autumnity.sap_bottle": "Sap Bottle",
+  "item.autumnity.syrup_bottle": "Syrup Bottle",
+  "item.autumnity.foul_berries": "Foul Berries",
+  "item.autumnity.foul_soup": "Foul Soup",
+
+  "item.autumnity.snail_shell_piece": "Snail Shell Piece",
+  "item.autumnity.snail_shell_chestplate": "Snail Shell Chestplate",
+
+  "item.autumnity.snail_shell_chestplate.whenSneaking": "When sneaking:",
+  "attribute.modifier.plus.ADDITION": "+10 Knockback Resistance",
+
+  "item.autumnity.turkey_egg": "Turkey Egg",
+  "item.autumnity.turkey_piece": "Turkey Piece",
+  "item.autumnity.cooked_turkey_piece": "Cooked Turkey Piece",
+
+  "item.autumnity.snail_spawn_egg": "Snail Spawn Egg",
+  "item.autumnity.turkey_spawn_egg": "Turkey Spawn Egg",
+
+  "block.autumnity.snail_goo": "Snail Goo",
+  "block.autumnity.snail_goo_block": "Snail Goo Block",
+  "block.autumnity.pancake": "Pancake",
+  "block.autumnity.autumn_crocus": "Autumn Crocus",
+  "block.autumnity.potted_autumn_crocus": "Potted Autumn Crocus",
+
+  "block.autumnity.turkey": "Turkey",
+  "block.autumnity.cooked_turkey": "Cooked Turkey",
+
+  "block.autumnity.foul_berry_bush": "Foul Berry Bush",
+  "block.autumnity.tall_foul_berry_bush": "Tall Foul Berry Bush",
+  "block.autumnity.potted_foul_berries": "Potted Foul Berries",
+
+  "block.autumnity.snail_shell_block": "Snail Shell Block",
+  "block.autumnity.snail_shell_bricks": "Snail Shell Bricks",
+  "block.autumnity.snail_shell_brick_stairs": "Snail Shell Brick Stairs",
+  "block.autumnity.snail_shell_brick_slab": "Snail Shell Brick Slab",
+  "block.autumnity.snail_shell_brick_wall": "Snail Shell Brick Wall",
+  "block.autumnity.chiseled_snail_shell_bricks": "Chiseled Snail Shell Bricks",
+  "block.autumnity.snail_shell_tiles": "Snail Shell Tiles",
+  "block.autumnity.snail_shell_tile_stairs": "Snail Shell Tile Stairs",
+  "block.autumnity.snail_shell_tile_slab": "Snail Shell Tile Slab",
+  "block.autumnity.snail_shell_tile_wall": "Snail Shell Tile Wall",
+
+  "block.autumnity.stripped_maple_log": "Stripped Maple Log",
+  "block.autumnity.stripped_maple_wood": "Stripped Maple Wood",
+  "block.autumnity.sappy_maple_log": "Sappy Maple Log",
+  "block.autumnity.sappy_maple_wood": "Sappy Maple Wood",
+  "block.autumnity.maple_log": "Maple Log",
+  "block.autumnity.maple_wood": "Maple Wood",
+  "block.autumnity.maple_planks": "Maple Planks",
+  "block.autumnity.maple_stairs": "Maple Stairs",
+  "block.autumnity.maple_slab": "Maple Slab",
+  "block.autumnity.maple_pressure_plate": "Maple Pressure Plate",
+  "block.autumnity.maple_button": "Maple Button",
+  "block.autumnity.maple_fence": "Maple Fence",
+  "block.autumnity.maple_fence_gate": "Maple Fence Gate",
+  "block.autumnity.maple_door": "Maple Door",
+  "block.autumnity.maple_trapdoor": "Maple Trapdoor",
+  "block.autumnity.maple_sign": "Maple Sign",
+  "block.autumnity.maple_wall_sign": "Maple Sign",
+
+  "block.autumnity.maple_leaves": "Maple Leaves",
+  "block.autumnity.maple_sapling": "Maple Sapling",
+  "block.autumnity.potted_maple_sapling": "Potted Maple Sapling",
+  "block.autumnity.maple_leaf_pile": "Maple Leaf Pile",
+
+  "block.autumnity.yellow_maple_leaves": "Yellow Maple Leaves",
+  "block.autumnity.yellow_maple_sapling": "Yellow Maple Sapling",
+  "block.autumnity.potted_yellow_maple_sapling": "Potted Yellow Maple Sapling",
+  "block.autumnity.yellow_maple_leaf_pile": "Yellow Maple Leaf Pile",
+
+  "block.autumnity.orange_maple_leaves": "Orange Maple Leaves",
+  "block.autumnity.orange_maple_sapling": "Orange Maple Sapling",
+  "block.autumnity.potted_orange_maple_sapling": "Potted Orange Maple Sapling",
+  "block.autumnity.orange_maple_leaf_pile": "Orange Maple Leaf Pile",
+
+  "block.autumnity.red_maple_leaves": "Red Maple Leaves",
+  "block.autumnity.red_maple_sapling": "Red Maple Sapling",
+  "block.autumnity.potted_red_maple_sapling": "Potted Red Maple Sapling",
+  "block.autumnity.red_maple_leaf_pile": "Red Maple Leaf Pile",
+
+  "subtitles.entity.turkey.ambient": "Turkey gobbles",
+  "subtitles.entity.turkey.aggro": "Turkey gobbles angrily",
+  "subtitles.entity.turkey.hurt": "Turkey hurts",
+  "subtitles.entity.turkey.death": "Turkey dies",
+
+  "subtitles.block.turkey.cut": "Cutting turkey",
+
+  "biome.autumnity.maple_forest": "Maple Forest",
+
+  "effect.autumnity.foul_taste": "Foul Taste",
+
+  "entity.autumnity.snail": "Snail",
+  "entity.autumnity.turkey": "Turkey",
+  "entity.autumnity.turkey_egg": "Turkey Egg",
+
+  "itemGroup.autumnity.autumnity": "Autumnity"
+}

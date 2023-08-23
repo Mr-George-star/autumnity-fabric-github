@@ -1,0 +1,6 @@
+{
+  "parent": "autumnity:block/templates/template_turkey_chunk2",
+  "textures": {
+    "turkey": "autumnity:block/cooked_turkey"
+  }
+}
